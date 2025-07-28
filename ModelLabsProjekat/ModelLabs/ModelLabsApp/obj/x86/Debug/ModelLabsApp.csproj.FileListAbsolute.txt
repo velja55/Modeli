@@ -1,0 +1,11 @@
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe.config
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.pdb
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.AssemblyReference.cache
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.GenerateResource.cache
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLab.59F05DFE.Up2Date
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb

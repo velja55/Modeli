@@ -1,0 +1,1104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|c:\\users\\lukic\\desktop\\fax4.godina\\1.semstar\\modeli\\projekat\\modellabsprojekat\\modellabs\\gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|solutionrelative:gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\gda\\genericdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|solutionrelative:networkmodelservice\\gda\\genericdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|solutionrelative:gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\networkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|solutionrelative:networkmodelservice\\networkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B726FB71-D295-41EE-9644-B2B0B1BC8911}|ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAContract.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\servicecontracts\\networkmodelquerycontract\\networkmodelgdaproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B726FB71-D295-41EE-9644-B2B0B1BC8911}|ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAContract.csproj|solutionrelative:servicecontracts\\networkmodelquerycontract\\networkmodelgdaproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\networkmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|solutionrelative:networkmodelservice\\networkmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimadapter\\cimadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\cimadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimadapter\\importer\\powertransformerimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\importer\\powertransformerimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimadapter\\importer\\powertransformerconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\importer\\powertransformerconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\loadmodel\\seasondaytypeschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\loadmodel\\seasondaytypeschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\modelresourcesdesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\modelresourcesdesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\wires\\regulationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\wires\\regulationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\loadmodel\\daytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\loadmodel\\daytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\gda\\association.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\association.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\modeldefines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\modeldefines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|solutionrelative:networkmodelservice\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\identifiedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\identifiedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimparser\\utilities\\codedomutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\utilities\\codedomutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\model\\utils\\codedomutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\model\\utils\\codedomutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimparser\\model\\concretemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\model\\concretemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimparser\\model\\builder\\concretemodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\model\\builder\\concretemodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\model\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\model\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\wires\\staticvarcompensator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\wires\\staticvarcompensator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\conductingequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\conductingequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\wires\\regulatingcondeq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\wires\\regulatingcondeq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\modelcodehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\modelcodehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\modellabsapp\\modellabsappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|solutionrelative:modellabsapp\\modellabsappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimadapter\\manager\\profilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\manager\\profilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukic\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimparser\\specific\\cimrdfdocumentxmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\specific\\cimrdfdocumentxmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimparser\\specific\\cimrdfcomparerxmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\specific\\cimrdfcomparerxmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimparser\\specific\\cimdifferencexmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\specific\\cimdifferencexmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimparser\\modeldifference\\cimdifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\modeldifference\\cimdifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimparser\\modelcompare\\cimcomparemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\modelcompare\\cimcomparemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimparser\\model\\profileelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\model\\profileelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\wires\\shuntcompensator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\wires\\shuntcompensator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\gda\\delta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\delta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\model\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\model\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\model\\classcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\model\\classcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimparser\\model\\cimmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\model\\cimmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimparser\\model\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\model\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\gda\\updateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\updateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\wires\\regulatingcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\wires\\regulatingcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\modellabsapp\\modellabsappform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|solutionrelative:modellabsapp\\modellabsappform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\modellabsapp\\modellabsappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|solutionrelative:modellabsapp\\modellabsappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B726FB71-D295-41EE-9644-B2B0B1BC8911}|ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAContract.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\servicecontracts\\networkmodelquerycontract\\inetworkmodelgdacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B726FB71-D295-41EE-9644-B2B0B1BC8911}|ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAContract.csproj|solutionrelative:servicecontracts\\networkmodelquerycontract\\inetworkmodelgdacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CIMAdapter||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukic\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\gda\\resourcedescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\resourcedescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E112FFCC-BD88-4056-99E1-0991A0E82588}|NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\NetworkModelServiceSelfHost.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\servicehost\\networkmodelserviceselfhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E112FFCC-BD88-4056-99E1-0991A0E82588}|NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\NetworkModelServiceSelfHost.csproj|solutionrelative:networkmodelservice\\servicehost\\networkmodelserviceselfhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E112FFCC-BD88-4056-99E1-0991A0E82588}|NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\NetworkModelServiceSelfHost.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\servicehost\\networkmodelserviceselfhost\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E112FFCC-BD88-4056-99E1-0991A0E82588}|NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\NetworkModelServiceSelfHost.csproj|solutionrelative:networkmodelservice\\servicehost\\networkmodelserviceselfhost\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\gda\\propertyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\propertyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\gda\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\gda\\comparehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\comparehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\modellabsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|solutionrelative:modellabsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\cimprofilecreatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\cimprofilecreatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\regulationintervalschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\regulationintervalschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\powersystemresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\powersystemresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\basicintervalschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\basicintervalschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\cimadapter\\transformandloadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\transformandloadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\common\\enumdescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\enumdescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\gui\\gui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|solutionrelative:gui\\gui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|solutionrelative:gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\gui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|solutionrelative:gui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DAA5E5F2-1A3A-4A4A-B1B1-1234567890AB}|GUI\\GUI.csproj|solutionrelative:GUI\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\Enums.cs",
+              "RelativeDocumentMoniker": "Common\\Enums.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\Enums.cs",
+              "RelativeToolTip": "Common\\Enums.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:14:12.002Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkModelGDAProxy.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAProxy.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAProxy.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAProxy.cs",
+              "RelativeToolTip": "ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAProxy.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAxwB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:39:56.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\GDA\\GenericDataAccess.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\GDA\\GenericDataAccess.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\GDA\\GenericDataAccess.cs",
+              "RelativeToolTip": "NetworkModelService\\GDA\\GenericDataAccess.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwFIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:01:33.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkModel.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\NetworkModel.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\NetworkModel.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\NetworkModel.cs",
+              "RelativeToolTip": "NetworkModelService\\NetworkModel.cs",
+              "ViewState": "AgIAAM4CAAAAAAAAAAAcwOcCAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:54:11.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0DAAAAAAAAAAAiwEEDAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:34:24.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml",
+              "RelativeToolTip": "GUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-22T16:11:28.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModelResourcesDesc.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\ModelResourcesDesc.cs",
+              "RelativeDocumentMoniker": "Common\\ModelResourcesDesc.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\ModelResourcesDesc.cs",
+              "RelativeToolTip": "Common\\ModelResourcesDesc.cs",
+              "ViewState": "AgIAAIcBAAAAAAAAAAAYwPADAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:21:43.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegulationSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\RegulationSchedule.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Wires\\RegulationSchedule.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\RegulationSchedule.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Wires\\RegulationSchedule.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:48:21.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DayType.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\LoadModel\\DayType.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\LoadModel\\DayType.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\LoadModel\\DayType.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\LoadModel\\DayType.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:07:14.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Association.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Association.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\Association.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Association.cs",
+              "RelativeToolTip": "Common\\GDA\\Association.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:46:56.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Container.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\Container.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Container.cs",
+              "RelativeToolTip": "NetworkModelService\\Container.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswLYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T22:47:40.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModelDefines.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\ModelDefines.cs",
+              "RelativeDocumentMoniker": "Common\\ModelDefines.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\ModelDefines.cs",
+              "RelativeToolTip": "Common\\ModelDefines.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:10:32.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeasonDayTypeSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\LoadModel\\SeasonDayTypeSchedule.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\LoadModel\\SeasonDayTypeSchedule.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\LoadModel\\SeasonDayTypeSchedule.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\LoadModel\\SeasonDayTypeSchedule.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:22:46.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NetworkModelService.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\NetworkModelService.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\NetworkModelService.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\NetworkModelService.cs",
+              "RelativeToolTip": "NetworkModelService\\NetworkModelService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:30:19.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CIMAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\CIMAdapter.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\CIMAdapter.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\CIMAdapter.cs",
+              "RelativeToolTip": "CIMAdapter\\CIMAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:54:23.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PowerTransformerImporter.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Importer\\PowerTransformerImporter.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\Importer\\PowerTransformerImporter.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Importer\\PowerTransformerImporter.cs",
+              "RelativeToolTip": "CIMAdapter\\Importer\\PowerTransformerImporter.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAzwEMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:51:10.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PowerTransformerConverter.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Importer\\PowerTransformerConverter.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\Importer\\PowerTransformerConverter.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Importer\\PowerTransformerConverter.cs",
+              "RelativeToolTip": "CIMAdapter\\Importer\\PowerTransformerConverter.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAjwEYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:54:44.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdentifiedObject.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\IdentifiedObject.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\IdentifiedObject.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\IdentifiedObject.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\IdentifiedObject.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAmwMAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T22:48:44.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CodeDOMUtil.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Utilities\\CodeDOMUtil.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Utilities\\CodeDOMUtil.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Utilities\\CodeDOMUtil.cs",
+              "RelativeToolTip": "CIMParser\\Utilities\\CodeDOMUtil.cs",
+              "ViewState": "AgIAAPQBAAAAAAAAAAAcwDYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:38:08.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CodeDOMUtil.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Utils\\CodeDOMUtil.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Model\\Utils\\CodeDOMUtil.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Utils\\CodeDOMUtil.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Model\\Utils\\CodeDOMUtil.cs",
+              "ViewState": "AgIAAHsCAAAAAAAAAAD4vxsDAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:38:24.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConcreteModel.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\ConcreteModel.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Model\\ConcreteModel.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\ConcreteModel.cs",
+              "RelativeToolTip": "CIMParser\\Model\\ConcreteModel.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAD4v0MAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:38:31.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConcreteModelBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\Builder\\ConcreteModelBuilder.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Model\\Builder\\ConcreteModelBuilder.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\Builder\\ConcreteModelBuilder.cs",
+              "RelativeToolTip": "CIMParser\\Model\\Builder\\ConcreteModelBuilder.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAD4v5MAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:38:33.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Class.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Model\\Class.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Class.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Model\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:33:06.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StaticVarCompensator.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\StaticVarCompensator.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Wires\\StaticVarCompensator.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\StaticVarCompensator.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Wires\\StaticVarCompensator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:28:17.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ModelCodeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\ModelCodeHelper.cs",
+              "RelativeDocumentMoniker": "Common\\ModelCodeHelper.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\ModelCodeHelper.cs",
+              "RelativeToolTip": "Common\\ModelCodeHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:03:15.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegulatingCondEq.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\RegulatingCondEq.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Wires\\RegulatingCondEq.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\RegulatingCondEq.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Wires\\RegulatingCondEq.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:17:14.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConductingEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\ConductingEquipment.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\ConductingEquipment.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\ConductingEquipment.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\ConductingEquipment.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:02:04.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs",
+              "ToolTip": "C:\\Users\\lukic\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs [Read Only]",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:26:03.092Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProfileManager.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Manager\\ProfileManager.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\Manager\\ProfileManager.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Manager\\ProfileManager.cs",
+              "RelativeToolTip": "CIMAdapter\\Manager\\ProfileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:29:31.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ModelLabsAppForm.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.cs",
+              "RelativeDocumentMoniker": "ModelLabsApp\\ModelLabsAppForm.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.cs",
+              "RelativeToolTip": "ModelLabsApp\\ModelLabsAppForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:26:47.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CIMDifferenceXMLHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Specific\\CIMDifferenceXMLHandler.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Specific\\CIMDifferenceXMLHandler.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Specific\\CIMDifferenceXMLHandler.cs",
+              "RelativeToolTip": "CIMParser\\Specific\\CIMDifferenceXMLHandler.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAACEBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:40:01.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ModelLabsAppForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.Designer.cs",
+              "RelativeDocumentMoniker": "ModelLabsApp\\ModelLabsAppForm.Designer.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.Designer.cs",
+              "RelativeToolTip": "ModelLabsApp\\ModelLabsAppForm.Designer.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAIBJwNsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:39:50.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ModelLabsAppForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.cs",
+              "RelativeDocumentMoniker": "ModelLabsApp\\ModelLabsAppForm.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.cs [Design]",
+              "RelativeToolTip": "ModelLabsApp\\ModelLabsAppForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:39:05.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CIMRDFComparerXMLHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Specific\\CIMRDFComparerXMLHandler.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Specific\\CIMRDFComparerXMLHandler.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Specific\\CIMRDFComparerXMLHandler.cs",
+              "RelativeToolTip": "CIMParser\\Specific\\CIMRDFComparerXMLHandler.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAmwCEBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:40:05.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CIMCompareMap.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ModelCompare\\CIMCompareMap.cs",
+              "RelativeDocumentMoniker": "CIMParser\\ModelCompare\\CIMCompareMap.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ModelCompare\\CIMCompareMap.cs",
+              "RelativeToolTip": "CIMParser\\ModelCompare\\CIMCompareMap.cs",
+              "ViewState": "AgIAAO4BAAAAAAAAAAAiwAQCAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:39:51.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CIMDifference.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ModelDifference\\CIMDifference.cs",
+              "RelativeDocumentMoniker": "CIMParser\\ModelDifference\\CIMDifference.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ModelDifference\\CIMDifference.cs",
+              "RelativeToolTip": "CIMParser\\ModelDifference\\CIMDifference.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAiwCsBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:39:57.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CIMRDFDocumentXMLHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Specific\\CIMRDFDocumentXMLHandler.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Specific\\CIMRDFDocumentXMLHandler.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Specific\\CIMRDFDocumentXMLHandler.cs",
+              "RelativeToolTip": "CIMParser\\Specific\\CIMRDFDocumentXMLHandler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwD4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:40:09.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProfileElement.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\ProfileElement.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Model\\ProfileElement.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\ProfileElement.cs",
+              "RelativeToolTip": "CIMParser\\Model\\ProfileElement.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAJsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:14:44.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ShuntCompensator.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\ShuntCompensator.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Wires\\ShuntCompensator.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\ShuntCompensator.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Wires\\ShuntCompensator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:32:27.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Profile.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Model\\Profile.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Profile.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Model\\Profile.cs",
+              "ViewState": "AgIAAMwBAAAAAAAAAAAAAMwBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:33:13.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ClassCategory.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\ClassCategory.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Model\\ClassCategory.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\ClassCategory.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Model\\ClassCategory.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAFwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:33:12.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateResult.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\UpdateResult.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\UpdateResult.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\UpdateResult.cs",
+              "RelativeToolTip": "Common\\GDA\\UpdateResult.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:47:04.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delta.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Delta.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\Delta.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Delta.cs",
+              "RelativeToolTip": "Common\\GDA\\Delta.cs",
+              "ViewState": "AgIAAOgBAAAAAAAAAAAqwOoBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:46:59.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CIMModel.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\CIMModel.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Model\\CIMModel.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\CIMModel.cs",
+              "RelativeToolTip": "CIMParser\\Model\\CIMModel.cs",
+              "ViewState": "AgIAAEEDAAAAAAAAAAAAAEEDAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:33:03.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\Profile.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Model\\Profile.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\Profile.cs",
+              "RelativeToolTip": "CIMParser\\Model\\Profile.cs",
+              "ViewState": "AgIAANoBAAAAAAAAAAAAANoBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:14:46.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RegulatingControl.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\RegulatingControl.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Wires\\RegulatingControl.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\RegulatingControl.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Wires\\RegulatingControl.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:46:49.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\Terminal.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\Terminal.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\Terminal.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\Terminal.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAApwGwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:42:12.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "INetworkModelGDAContract.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ServiceContracts\\NetworkModelQueryContract\\INetworkModelGDAContract.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\NetworkModelQueryContract\\INetworkModelGDAContract.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ServiceContracts\\NetworkModelQueryContract\\INetworkModelGDAContract.cs",
+              "RelativeToolTip": "ServiceContracts\\NetworkModelQueryContract\\INetworkModelGDAContract.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv1sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:40:00.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "GUI.csproj",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\GUI.csproj",
+              "RelativeDocumentMoniker": "GUI\\GUI.csproj",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\GUI.csproj",
+              "RelativeToolTip": "GUI\\GUI.csproj",
+              "ViewState": "AgIAABkAAAAAk07Ng9wgwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T22:27:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GUI",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\GUI.csproj",
+              "RelativeDocumentMoniker": "GUI\\GUI.csproj",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\GUI.csproj",
+              "RelativeToolTip": "GUI\\GUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T22:28:25.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\lukic\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAKwBAAAAAAAAAAAYwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:36:32.332Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CIMAdapter",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\CIMAdapter.csproj",
+              "RelativeDocumentMoniker": "CIMAdapter\\CIMAdapter.csproj",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\CIMAdapter.csproj",
+              "RelativeToolTip": "CIMAdapter\\CIMAdapter.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-01T23:48:53.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\App.config",
+              "RelativeDocumentMoniker": "GUI\\App.config",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\App.config",
+              "RelativeToolTip": "GUI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-01T16:35:07.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ResourceDescription.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\ResourceDescription.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\ResourceDescription.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\ResourceDescription.cs",
+              "RelativeToolTip": "Common\\GDA\\ResourceDescription.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:47:03.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\Program.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\Program.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\Program.cs",
+              "RelativeToolTip": "NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:41:00.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\GUI\\App.xaml.cs",
+              "RelativeToolTip": "GUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:59:24.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PropertyValue.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\PropertyValue.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\PropertyValue.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\PropertyValue.cs",
+              "RelativeToolTip": "Common\\GDA\\PropertyValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:47:02.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CompareHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\CompareHelper.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\CompareHelper.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\CompareHelper.cs",
+              "RelativeToolTip": "Common\\GDA\\CompareHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:46:58.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\app.config",
+              "RelativeDocumentMoniker": "NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\app.config",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\app.config",
+              "RelativeToolTip": "NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\app.config",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-01T14:12:43.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Property.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\Property.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Property.cs",
+              "RelativeToolTip": "Common\\GDA\\Property.cs",
+              "ViewState": "AgIAAMcEAAAAAAAAAAAAAMcEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:55:17.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\Program.cs",
+              "RelativeDocumentMoniker": "ModelLabsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\Program.cs",
+              "RelativeToolTip": "ModelLabsApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:28:38.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CIMProfileCreatorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\CIMProfileCreatorForm.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\CIMProfileCreatorForm.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\CIMProfileCreatorForm.cs [Design]",
+              "RelativeToolTip": "CIMProfileCreator\\CIMProfileCreatorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:39:56.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RegulationIntervalSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\RegulationIntervalSchedule.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\RegulationIntervalSchedule.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\RegulationIntervalSchedule.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\RegulationIntervalSchedule.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:22:05.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PowerSystemResource.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\PowerSystemResource.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\PowerSystemResource.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\PowerSystemResource.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\PowerSystemResource.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T22:57:42.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\Equipment.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\Equipment.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\Equipment.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\Equipment.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwGMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T22:48:38.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BasicIntervalSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\BasicIntervalSchedule.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\BasicIntervalSchedule.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\BasicIntervalSchedule.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\BasicIntervalSchedule.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAUwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:47:00.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TransformAndLoadReport.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\TransformAndLoadReport.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\TransformAndLoadReport.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\TransformAndLoadReport.cs",
+              "RelativeToolTip": "CIMAdapter\\TransformAndLoadReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:47:19.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EnumDescs.cs",
+              "DocumentMoniker": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\EnumDescs.cs",
+              "RelativeDocumentMoniker": "Common\\EnumDescs.cs",
+              "ToolTip": "C:\\Users\\lukic\\Desktop\\fax4.godina\\1.semstar\\modeli\\Projekat\\ModelLabsProjekat\\ModelLabs\\Common\\EnumDescs.cs",
+              "RelativeToolTip": "Common\\EnumDescs.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwBIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:21:44.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

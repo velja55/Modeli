@@ -1,0 +1,8 @@
+7/3/2025 1:01:21 PM : Starting Network Model Serivice...
+7/3/2025 1:01:23 PM : The communication object, System.ServiceModel.ServiceHost, cannot be used for communication because it is in the Faulted state.
+7/3/2025 1:01:23 PM : NetworkModelService failed.
+7/3/2025 1:01:23 PM :    at System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Close()
+   at FTN.Services.NetworkModelService.NetworkModelService.CloseHosts() in C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\NetworkModelService.cs:line 96
+   at FTN.Services.NetworkModelService.NetworkModelService.Dispose() in C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\NetworkModelService.cs:line 34
+   at FTN.Services.NetworkModelService.Program.Main(String[] args) in C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\ServiceHost\NetworkModelServiceSelfHost\Program.cs:line 30

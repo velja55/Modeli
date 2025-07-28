@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\NetworkModelServiceSelfHost.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GUI\\GUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

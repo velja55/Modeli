@@ -1,0 +1,6 @@
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb

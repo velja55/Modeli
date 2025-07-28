@@ -1,0 +1,13 @@
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedClasses.xml
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedEnumerations.xml
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedPackages.xml
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe.config
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.AssemblyReference.cache
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.CIMProfileCreatorForm.resources
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.Properties.Resources.resources
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.GenerateResource.cache
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.CoreCompileInputs.cache
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+C:\Users\lukic\Desktop\fax4.godina\1.semstar\modeli\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
